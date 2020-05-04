@@ -1,10 +1,10 @@
 # mission_to_mars
 
 # Objective
-*Use BeautifulSoup and Splinter to automate a web browser and scrape high-resolution images.
-*Use a MongoDB database to store data from the web scrape.
-*Update the web application and Flask to display the data from the web scrape.
-*Use Bootstrap to style the web app.
+* Use BeautifulSoup and Splinter to automate a web browser and scrape high-resolution images.
+* Use a MongoDB database to store data from the web scrape.
+* Update the web application and Flask to display the data from the web scrape.
+* Use Bootstrap to style the web app.
 
 ## System Prep
 In order to run this application you will need to have Python version 3.6.3 installed on your system. If you do not have it installed then you can read about how to install it [here](https://docs.python.org/3/using/windows.html#installing-python).
@@ -16,3 +16,4 @@ $ brew install mongodb
 ```
 
 ##  Mars Hemispheres
+![]2.png
