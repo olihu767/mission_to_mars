@@ -1,4 +1,4 @@
-# mission_to_mars
+# Mission_To_Mars
 
 # Objective
 * Use BeautifulSoup and Splinter to automate a web browser and scrape high-resolution images.
